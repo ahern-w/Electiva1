@@ -1,0 +1,43 @@
+Funcionalidades de la aplicación "Funx" 
+
+Restricciones técnicas
+Esta aplicación funcionará en dispositivos Android con sistema operativo versión 8 o superior
+
+Funcionalidades de usuario
+
+El usuario podrá elegir entre las 6 categorías opcionales, al darle click a la
+categoría entrará a una interfaz de interacción dinámica, donde al  usuario se
+le realizarán algunas preguntas. 
+
+Empezará por mostrar una imagen que generará un sonido, tres opciones en texto con sonido. El usuario podrá escuchar el sonido que
+genere la imagen,también podrá escuchar  las opciones de textos. El usuario podrá y tendrá que seleccionar una opción según su criterio. 
+Cuando el usuario selecciona una opción el software le mostrará si la opción  es correcta o incorrecta y pasará a la siguiente pregunta.  
+
+Al final del juego de preguntas, le mostrará cuántas tuvo correctas e incorrectas y le dará un puntaje de rendimiento. 
+
+
+Módulos del software:
+
+Módulo de inicio: El usuario elegirá el género deseado, esto solo será para interactuar con el usuario, 
+no tendrá diferencia de interfaces según la decisión elegida. 
+
+Módulo principal “Categorías”: Este módulo estará separado por 6 categorías diferentes. 
+
+En la categoría Animales, se encontrará la imagen del animal, nombre del animal en texto  y  en audio estará la pronunciación del animal.
+Animales como: (Perro, gato, caballo, vaca, sapo, cerdo, serpiente, gallina, león, conejo, jirafa, elefante).
+
+En la categoría Colores, se encuentran los colores, donde podrá ver el color, el texto  y el audio del nombre del color. 
+(Amarillo, azul, rojo, verde, rosado, blanco, negro, morado, cafe,naranja). 
+
+En la categoría Números, se encontrará los números del 1 al 10, con su imagen y audio. 
+
+En la categoría Alimentos,  se encontrará diferentes tipos de alimentos como;  pollo, huevo, leche, pan, jugo, fresa, mango, sopa,manzana,
+helado, limón. 
+
+En la categoría Partes del cuerpo, estarán todas las partes físicas del cuerpo. (Hombro, brazo, codo, mano, nalgas, rodillas, pierna,tobillo,
+pie, cara, ojos, boca, nariz, orejas, ombligo ). Tendrá imagen, audio y texto. 
+
+En la categoría figuras geométricas, se mostrará diferentes figuras
+(círculo, triángulo, cuadrado,rombo,estrella, óvalo,pentagono,octagono, hexagono,paralelogramo). imagen, texto y audio. 
+
+
